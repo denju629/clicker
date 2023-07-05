@@ -14,3 +14,9 @@ I like use clicker game!
 <button class="button" onclick="click1()">Click me</button>
 </body>
 ```
+### style.css
+```css
+.button {
+  background-color: green;
+}
+```
