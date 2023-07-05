@@ -33,3 +33,6 @@ setInterval(() => {
 }, 100)
 ```
 ## Publish GitHub Pages
+Set Branch to "main" to publish it.
+## Promote it!
+You can share on other people, save to wayback machine and people playing
