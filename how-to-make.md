@@ -20,3 +20,16 @@ I like use clicker game!
   background-color: green;
 }
 ```
+### script.js
+```js
+var click = 0
+
+function click1() {
+  click += 1
+}
+
+setInterval(() => {
+  document.querySelector(".count").innerHTML= click
+}, 100)
+```
+## Publish GitHub Pages
